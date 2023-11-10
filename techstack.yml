@@ -1,0 +1,18 @@
+repo_name: dai/issues
+report_id: 1a2c210e57239c6c09d6725355672fd8
+repo_type: Public
+timestamp: '2023-11-10T09:07:44+00:00'
+requested_by: mattn
+provider: github
+branch: gh-pages
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
